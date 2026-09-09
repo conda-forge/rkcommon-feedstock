@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.15.3"
+  version: "1.15.4"
 
 package:
   name: rkcommon
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/RenderKit/rkcommon/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 31925481d189dcdddadf651dd37021108e5acaa8d39bd639de8c098157ad07b7
+  sha256: d584cc3620e56f12f07b84358b33a14de8aed29149693a1fe6eeed64ef74ae9b
 
 build:
   number: 0
